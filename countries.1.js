@@ -31,7 +31,7 @@ countries = [
   'denmark',
   'martinique',
   'iran',
-  'turkey',
+  'thrace',
   'kirgizstan',
   'greece',
   'croatia',
