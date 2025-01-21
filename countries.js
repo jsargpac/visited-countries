@@ -9,6 +9,7 @@ countries = [
   'usa',
   'uruguay',
   'argentina',
+  'morocco',
   'liberia',
   'guatemala',
   'senegal',
